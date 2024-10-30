@@ -186,6 +186,8 @@ public class Login extends javax.swing.JFrame {
 
     private void jtxt1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jtxt1ActionPerformed
         // TODO add your handling code here:
+        // 
+        // APRENDIENDO CON ALDAIR 
     }//GEN-LAST:event_jtxt1ActionPerformed
 
     /**
